@@ -1,0 +1,8 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+
+# Datasets
+ml-1m/
+ml-1ook/
