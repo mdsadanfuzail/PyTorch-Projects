@@ -1,7 +1,5 @@
 # Fashion MNIST PyTorch
 
-# CNN for Fashion MNIST dataset
-
 * This project involves building a simple neural network to classify images from the Fashion MNIST dataset. The dataset contains 10 categories of clothing and accessories.
 
 * I have used Pytorch for this project, and also this is with some of the **Regularisation techniques**.
